@@ -72,6 +72,52 @@ $(function() {
     });
 });
 
+/*
+newsletter subscription box
+*/
+$(function() {
+
+    $("#MailingListForm input").jqBootstrapValidation({
+        preventSubmit: true,
+        submitError: function($form, event, errors) {
+            // additional error messages or events
+        },
+        submitSuccess: function($form, event) {
+            event.preventDefault(); // prevent default submit behaviour
+            // get values from FORM
+            var fname = $("input#fname").val();
+            var email = $("input#email").val();
+            $.ajax({
+                url: "https://hooks.zapier.com/hooks/catch/1178399/mgtf9r/",
+                method: "POST",
+                data: {
+                    fname: fname,
+                    email: email
+                },
+                dataType: "json",
+                cache: false,
+                success: function() {
+                    // Success message
+                    $('#success').html("<div class='alert alert-success'>");
+                    $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                        .append("</button>");
+                    $('#success > .alert-success')
+                        .append("<strong>You are successfully subscribed</strong>");
+                    $('#success > .alert-success')
+                        .append('</div>');
+
+                    //clear all fields
+                    $('#MailingListForm').trigger("reset");
+                },
+            })
+        },
+        filter: function() {
+            return $(this).is(":visible");
+        },
+    });
+
+});
+
 
 /*When clicking on Full hide fail/success boxes */
 $('#name').focus(function() {

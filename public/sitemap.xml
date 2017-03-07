@@ -2,69 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/</loc>
-    <lastmod>2015-05-24T18:51:50+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/about/</loc>
+    <loc>https://kees.online/about/</loc>
     <lastmod>2015-05-24T18:51:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/contact/</loc>
+    <loc>https://kees.online/contact/</loc>
     <lastmod>2015-05-24T18:52:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-01/</loc>
+    <loc>https://kees.online/post/post-01/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-02/</loc>
+    <loc>https://kees.online/post/post-02/</loc>
     <lastmod>2015-05-24T18:52:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-03/</loc>
-    <lastmod>2015-05-24T18:52:17+02:01</lastmod>
+    <loc>https://kees.online/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-04/</loc>
-    <lastmod>2015-05-24T18:52:17+02:02</lastmod>
+    <loc>https://kees.online/tags/development/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-05/</loc>
-    <lastmod>2015-05-24T18:52:17+02:04</lastmod>
+    <loc>https://kees.online/categories/development/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-06/</loc>
-    <lastmod>2015-05-24T18:52:17+02:06</lastmod>
+    <loc>https://kees.online/tags/go/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-07/</loc>
-    <lastmod>2015-05-24T18:52:17+02:07</lastmod>
+    <loc>https://kees.online/tags/golang/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-08/</loc>
-    <lastmod>2015-05-24T18:52:17+02:08</lastmod>
+    <loc>https://kees.online/categories/golang/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-09/</loc>
-    <lastmod>2015-05-24T18:52:17+02:09</lastmod>
+    <loc>https://kees.online/post/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://humboldtux.github.io/sbcb-demo/post/post-10/</loc>
-    <lastmod>2015-05-24T18:52:17+02:10</lastmod>
+    <loc>https://kees.online/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kees.online/tags/templates/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kees.online/tags/themes/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kees.online/</loc>
+    <lastmod>2015-05-24T18:51:50+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

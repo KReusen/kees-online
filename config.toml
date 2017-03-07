@@ -1,5 +1,6 @@
-baseurl = "http://humboldtux.github.io/sbcb-demo"
-title = "Start Bootstrap Clean Blog"
+#baseurl = "https://dev-kr.nl/preview/kees-online/public"
+baseurl = "https://kees.online"
+title = "kees.online"
 canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
@@ -11,9 +12,9 @@ copyright = "Code released under the Apache 2.0 license."
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Your site description"
-  Author = "Benoît Benedetti"
-  email = "benoit.benedetti@gmail.com"
+  Description = "Getting more out of life thanks to technology"
+  Author = "Kees Reusen"
+  email = "me@kees.online"
   Ganalytics = "XX-00000000-0"
 
 [[params.social]]

@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kees.online/about/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/about/</loc>
     <lastmod>2015-05-24T18:51:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kees.online/contact/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/contact/</loc>
     <lastmod>2015-05-24T18:52:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kees.online/post/post-01/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/post/post-01/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kees.online/post/post-02/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/post/post-02/</loc>
     <lastmod>2015-05-24T18:52:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kees.online/categories/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/tags/development/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/tags/development/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/categories/development/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/categories/development/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/tags/go/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/tags/go/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/tags/golang/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/tags/golang/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/categories/golang/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/categories/golang/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/post/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/post/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/tags/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/tags/templates/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/tags/templates/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/tags/themes/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/tags/themes/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kees.online/</loc>
+    <loc>https://dev-kr.nl/preview/kees-online/public/</loc>
     <lastmod>2015-05-24T18:51:50+02:00</lastmod>
     <priority>0</priority>
   </url>

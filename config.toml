@@ -5,7 +5,6 @@ canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
-copyright = "Code released under the Apache 2.0 license."
 
 [author]
     name = "Benoît Benedetti"
@@ -15,17 +14,17 @@ copyright = "Code released under the Apache 2.0 license."
   Description = "Getting more out of life thanks to technology"
   Author = "Kees Reusen"
   email = "me@kees.online"
-  Ganalytics = "XX-00000000-0"
+  Ganalytics = "UA-93281004-1"
 
 [[params.social]]
-    title = "twitter"
-    url = "https://twitter.com/humboldtux"
+    title = "envelope"
+    url = "/about"
+[[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/keesreusen/"
 [[params.social]]
     title = "github"
-    url = "https://github.com/humboldtux"
-[[params.social]]
-    title = "facebook"
-    url = "https://www.facebook.com/FACEBOOKHANDLE"
+    url = "https://github.com/KReusen"
 
 [[menu.main]]
   name = "home"
@@ -35,3 +34,7 @@ copyright = "Code released under the Apache 2.0 license."
   name = "Archives"
   url = "/post/"
   weight = -180
+
+[params.footer]
+  footerlinktext = "Humboldtux"
+  footerlink = "https://github.com/humboldtux/startbootstrap-clean-blog"

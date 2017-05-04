@@ -5,9 +5,10 @@ canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
+DisqusShortname = "kees-online"
 
 [author]
-    name = "Benoît Benedetti"
+    name = "Kees Reusen"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
@@ -30,10 +31,6 @@ languageCode = "en-us"
   name = "home"
   url = "/"
   weight = -200
-[[menu.main]]
-  name = "Archives"
-  url = "/post/"
-  weight = -180
 
 [params.footer]
   footerlinktext = "Humboldtux"

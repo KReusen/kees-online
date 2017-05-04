@@ -1,0 +1,26 @@
+               <div class="post-preview">
+                 <a href="{{ .Permalink }}">
+                      <h2 class="post-title">{{ .Title }}</h2>
+                      <h3 class="post-subtitle">{{ .Description }}</h3>
+                    </a>
+                    
+                    {{ if isset .Params "frontpageimage" }}
+                    <img class="img-responsive" src="{{ .Site.BaseURL }}/{{ .Params.frontpageimage }}" title="{{ .Title }}" alt="{{ .Title }}"/>
+                    {{ end }}
+                    
+                    <p class="summary">
+                        {{ .Summary }}
+                    </p>
+                    {{ if .Truncated }}
+                      <ul class="pager">
+                        <li class="next">
+                          <a href="{{ .RelPermalink }}">Read More &rarr;</a>
+                        </li>
+                      </ul>
+                      {{ end }}
+                <hr>
+                    <p class="post-meta">
+                      {{ partial "meta.html" .}}
+                  </p>
+                </div>
+                <hr>

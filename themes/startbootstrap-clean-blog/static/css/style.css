@@ -1,0 +1,20 @@
+#mailinglistbox {
+	display: block;
+	 -webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #bcc6d6;
+	padding:20px;
+	background:#edf2f9;
+	margin-bottom: 50px;
+}
+#mailinglistbox h3 {
+	margin-top:0;
+}
+#mailinglistbox p {
+	margin-top:0;
+	margin-bottom:10px;
+}
+#mailinglistbox label {
+	color:#546884;
+}
